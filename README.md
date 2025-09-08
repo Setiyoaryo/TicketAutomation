@@ -1,1 +1,1 @@
-# say
+Project ini bertujuan untuk mengotomatiskan alur kerja manual yang repetitif dalam pembuatan tiket, yang secara historis memakan waktu dan rentan terhadap kesalahan manusia. Dengan memanfaatkan Python dan Selenium WebDriver, sebuah bot cerdas dikembangkan untuk meniru interaksi pengguna secara presisi, mulai dari login, navigasi, pengisian formulir dinamis, hingga verifikasi keberhasilan tugas. Hasilnya adalah peningkatan efisiensi operasional yang signifikan, pengurangan human error, dan penghematan waktu kerja yang berharga.
