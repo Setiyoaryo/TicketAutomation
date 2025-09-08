@@ -40,4 +40,7 @@ Dropdown dinamis: pilih <li> pada menu dengan normalize-space()='<teks yang sama
 
 Retry cerdas: tiap gagal akan refresh + re-navigasi sebelum coba lagi.
 
-Verifikasi via API: injeksi JS untuk “mengintip” respons create-ticket; status sukses dibaca langsung dari serve
+Verifikasi via API: injeksi JS untuk “mengintip” respons create-ticket; status sukses dibaca langsung dari server
+
+![License](https://img.shields.io/badge/license-Proprietary-red)
+
